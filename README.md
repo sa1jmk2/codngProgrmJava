@@ -73,8 +73,19 @@ Programs
 List<String> list = Arrays.asList("111","48","ssdd", "55","a","AAAAAS","sss");
         List<String> collect = list.stream().sorted().collect(Collectors.toList());
         System.out.println("    " +collect );
+        
+9.Remove duplicate
+List<String> list = Arrays.asList("111","48","1","sss","1","4","1");
+        List<String> collect = list.stream().distinct().collect(Collectors.toList());
+        System.out.println("    " +collect );
 
- 
+10.Names with length more than four
+
+ List<String> list = Arrays.asList("14411","48","1","sss","1","4","1");
+        List<String> collect = list.stream().filter(x->x.length()>4).collect(Collectors.toList());
+        System.out.println("    " +collect );
+
+
  
 
         
