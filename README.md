@@ -85,6 +85,17 @@ List<String> list = Arrays.asList("111","48","1","sss","1","4","1");
         List<String> collect = list.stream().filter(x->x.length()>4).collect(Collectors.toList());
         System.out.println("    " +collect );
 
+11.Filter names starts with "J" convert to Uppercase & collect
+
+List<String> list = Arrays.asList("14411","JJJ","JJJJ",  "J1","jsss","1","4","1","jLLL");
+        List<String> collect = list.stream().filter(s->s.startsWith("j") ).map(String::toUpperCase).collect(Collectors.toList());
+        System.out.println("    " +collect );
+
+        List<String> list1 = Arrays.asList("14411","JJJ","JJJJ",  "J1","jsss","1","4","1");
+        List<String> collect1 = list1.stream().filter(s->s.startsWith("j") ).map(l->l.toUpperCase()).collect(Collectors.toList());
+        System.out.println("    " +collect1 );
+
+
 
  
 
