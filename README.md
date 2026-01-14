@@ -1,4 +1,4 @@
-# codngProgrmJava
+333333# codngProgrmJava
 
 Programs
 1. Number grater than 100
@@ -52,6 +52,30 @@ Programs
         List<Integer> newData=data.stream().map(x->x+5 ).collect(Collectors.toList());
         System.out.println("add 5 to all numbers ::  "+newData);}
 
+6. connvet ever letterss  to upper case annd lter LowerCase
+
+    public static void main(String[] args) {
+
+        List<String> list = Arrays.asList("deddLLLLSSSaaa","SSWWEEE","ssdd", "sssWWWW","WWWWWWeeee","AAAAAS","sss");
+        List<String> collect = list.stream().map(x -> x.toUpperCase() ).collect(Collectors.toList());
+        System.out.println("    " +collect );
+
+7. length of String
+
+ 
+        List<String> list = Arrays.asList("111","48","ssdd", "55","a","AAAAAS","sss");
+        List<Integer> collect = list.stream().map(x -> x.length() ).collect(Collectors.toList());
+        System.out.println("    " +collect );
+        
+
+8. Sort the record
+
+List<String> list = Arrays.asList("111","48","ssdd", "55","a","AAAAAS","sss");
+        List<String> collect = list.stream().sorted().collect(Collectors.toList());
+        System.out.println("    " +collect );
+
+ 
+ 
 
         
         
