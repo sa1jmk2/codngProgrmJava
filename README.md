@@ -14,10 +14,11 @@ QUESTIONS
 
 Test attempts/Tranning/practice
 January/2026
-sl   :  Date      : Time     : no_of_Time/practice   : TimeTaken/Duration : TotalQuestons
-1    :               
-2    :            :          :   2                   :   ≈40 min           :  11q   
-3    : 18/01/2026 : 1:36am   :    3                   :                    :  11q
+sl   :  Date      : Time     : no_of_Time/practice    : TimeTaken/Duration  : TotalQuestons :Questionn _Number : QuestionnTpe
+1    :                                                                                                          :Basic
+2    :            :          :    2                   :   ≈40 min           :  11q           : 1 to 11           :  Basic
+3    : 18/01/2026 : 1:36am   :    3                   :    32.05 min        :  11q            : 1 to 11          :Basic    
+3
 
 
 Programs
