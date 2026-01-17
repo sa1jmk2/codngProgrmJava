@@ -1,6 +1,27 @@
 333333# codngProgrmJava
+QUESTIONS
+1. Number grater than 100
+   2.Letter start with letter m
+   3.even and odd number in data
+    4.square of numbers
+   5.add 5 to all numbers
+   6. connvet ever letterss  to upper case annd lter LowerCase
+   7. length of String
+   8. Sort the record
+   9.Remove duplicate
+10.Names with length more than four
+11.Filter names starts with "J" convert to Uppercase & collect
+
+Test attempts/Tranning/practice
+January/2026
+sl   :  Date      : Time     : no_of_Time/practice   : TimeTaken/Duration : TotalQuestons
+1    :               
+2    :            :          :   2                   :   ≈40 min           :  11q   
+3    : 18/01/2026 : 1:20am   :                       : 
+
 
 Programs
+
 1. Number grater than 100
 
    public static void main(String[] args) {
