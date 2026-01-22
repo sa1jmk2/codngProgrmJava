@@ -14,11 +14,18 @@ QUESTIONS
 
 Test attempts/Tranning/practice
 January/2026
-sl   :  Date      : Time     : no_of_Time/practice  : TimeTaken/Duration  : TotalQuestons :Questionn _Number : QuestionnTpe :FinalEvaluation⭐ :tme end
+sl   :  Date      : Time     : no_of_Time/practice:👉TimeTaken/Duration:TotalQuestons :Questionn _Number:QuestionnTpe:FinalEvaluation⭐:tme end               :   Comments    
 1    :                                                                                                        :Basic
-2    :            :          :    2                 :   ≈40 min           :  11q           : 1 to 11           :  Basic
-3    : 18/01/2026 : 1:36am   :    3                 :    32.05 min        :  11q            : 1 to 11          :Basic      : ⭐ Score 8.5 / 10   :  20/jaan/2026/ 5:35PM
-4    : 22/1/2026  : 6:42am   :4                     :                      :11Q             :1 to 11           :Basc        :                     :22/1/2026 7:20am 
+2    :            :          :    2                 :   ≈40 min         :  11q         : 1 to 11         :  Basic
+3    : 18/01/2026 : 1:36am   :    3                 :    32.05 min      :  11q         : 1 to 11         :Basic       :⭐Score8.5/10    :20/jaan/2026/ 5:35PM
+4    : 22/1/2026  : 6:42am   :4                     : 32:02 min         :11Q           :1 to 11           :Basc       :                    :22/1/2026 7:43am    :Pc was lttle slow or ele 5min erly: 
+  🎯  FinalVerdict 
+   Concepts: ⭐⭐⭐⭐⭐ 
+   Correctness: ⭐⭐⭐⭐⭐               👉 Final Score: 7.5 / 10
+   Code Style: ⭐⭐⭐             
+   Readability: ⭐⭐⭐⭐ 
+
+   
                             
 
 Programs
