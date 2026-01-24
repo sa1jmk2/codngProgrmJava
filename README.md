@@ -1,4 +1,5 @@
 333333# codngProgrmJava    REVIEW YOUR CODE EVERY DAY
+REVIEW YOUR CODE EVERY DAYREVIEW YOUR CODE EVERY DAYREVIEW YOUR CODE EVERY DAYREVIEW YOUR CODE EVERY DAYREVIEW YOUR CODE EVERY DAYREVIEW YOUR CODE EVERY DAYREVIEW YOUR CODE EVERY DAYREVIEW YOUR CODE EVERY DAY
 QUESTIONS
 1. Number grater than 100
    2.Letter start with letter m
@@ -24,7 +25,11 @@ sl   :  Date      : Time     : no_of_Time/practice:👉TimeTaken/Duration:TotalQ
    Correctness: ⭐⭐⭐⭐⭐               👉 Final Score: 7.5 / 10
    Code Style: ⭐⭐⭐             
    Readability: ⭐⭐⭐⭐ 
-5.24/01/2026    :7.10pm     :
+5.24/01/2026    :7.10pm     :5                      :21.05min          :11q          :1to 11         :Basic          :  Score   (4/5) : 24/1/2026  7.46pm   :statng-get pone call from home about job and dstbranc
+🎯 Overall Review Score ⭐⭐⭐⭐☆ (4/5) 
+✔ Logic correct                             Score ⭐⭐⭐⭐☆ (4/5)
+✔ Streams understood
+❌ Naming & polish need improvement
    
                             
 
