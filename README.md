@@ -30,7 +30,7 @@ sl   :  Date      : Time     : no_of_Time/practice:👉TimeTaken/Duration:TotalQ
 ✔ Logic correct                             Score ⭐⭐⭐⭐☆ (4/5)
 ✔ Streams understood
 ❌ Naming & polish need improvement
-   
+6.25/02/2026    :2.36am     :6                      :21.05min          :11q          :1to 11         :Basic          :  Score   (4/5) : 25/2/2026  3.34am   :statng-get pone call from home 
                             
 
 Programs
@@ -86,7 +86,7 @@ Programs
         List<Integer> newData=data.stream().map(x->x+5 ).collect(Collectors.toList());
         System.out.println("add 5 to all numbers ::  "+newData);}
 
-6. connvet ever letterss  to upper case annd lter LowerCase
+6. connvet ever letters to upper case annd lter LowerCase
 
     public static void main(String[] args) {
 
